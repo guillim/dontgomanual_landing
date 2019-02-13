@@ -3,6 +3,15 @@
   padding-top: 50px;
   padding-bottom: 50px;
 }
+.field #message {
+  color: #fff;
+}
+.field #name {
+  color: #fff;
+}
+.field #email {
+  color: #fff;
+}
 .inner{
   margin: 0 auto;
   max-width: 65em;
