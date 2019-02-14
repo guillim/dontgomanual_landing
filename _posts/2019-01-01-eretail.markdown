@@ -1,7 +1,7 @@
 ---
 layout: default
 idtag: e-retail1
-img: amazonreview.jpg
+img: amazonreview.png
 category: Services
 title: E-retail is shaped by Amazon
 permalink: eretail
