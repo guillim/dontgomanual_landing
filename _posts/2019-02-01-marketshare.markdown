@@ -4,6 +4,7 @@ idtag: e-retail2
 img: marketshare.png
 category: Services
 title: Amazon isn't alone
+permalink: marketshare
 description: |
 ---
 While in the US, Amazon has 50% of the ecommerce marketshare, it's a different story in France. As you can see here, Cdiscount and VentePrivee are strong, and should equally be optimised.

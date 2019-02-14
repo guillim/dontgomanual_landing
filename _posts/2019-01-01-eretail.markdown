@@ -4,6 +4,7 @@ idtag: e-retail1
 img: amazonreview.jpg
 category: Services
 title: E-retail is shaped by Amazon
+permalink: eretail
 description: |
 ---
 More than a marketplace, Amazon is the main E-retail plateform. It is the main gateway for online customers who are looking for products. Not only prices are important, but comments, ratings, descriptions are key factors to trigger a online purchase.

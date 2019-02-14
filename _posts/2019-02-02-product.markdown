@@ -4,6 +4,7 @@ idtag: product
 img: dashboard.png
 category: Services
 title: Dontgomanual is the perfect solution
+permalink: product
 description: |
 ---
 You will manage your products through every plateform, from here. Our solution gather informaton in one place, which helps to manage your Brand, in the blink of an eye.
