@@ -4,7 +4,7 @@
 
 url: http://dontgomanual.com
 title: Dontgomanual
-email: contact@dontgomanual.com
+email: contact%40dontgomanual.33mail.com
 author: Don't go manual
 description: > # "Write an awesome description for your new site here.
   E-Retail advisor providing automated insights for SEO & SEA.
@@ -22,7 +22,7 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 #
-email: contact@dontgomanual.com
+
 # social:
 #   - title: github
 #     url: https://github.com/IronSummitMedia/startbootstrap
