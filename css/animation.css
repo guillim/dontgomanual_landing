@@ -8,9 +8,9 @@
   margin-bottom: 30px;
 }
 .slidingVertical span{
-	animation: topToBottom 15s linear infinite 0s;
-	-ms-animation: topToBottom 15s linear infinite 0s;
-	-webkit-animation: topToBottom 15s linear infinite 0s;
+	animation: topToBottom 17.5s linear infinite 0s;
+	-ms-animation: topToBottom 17.5s linear infinite 0s;
+	-webkit-animation: topToBottom 17.5s linear infinite 0s;
 	color: #00abe9;
 	opacity: 0;
 	overflow: hidden;
@@ -40,6 +40,11 @@
 	animation-delay: 12.5s;
 	-ms-animation-delay: 12.5s;
 	-webkit-animation-delay: 12.5s;
+}
+.slidingVertical span:nth-child(7){
+	animation-delay: 15s;
+	-ms-animation-delay: 15s;
+	-webkit-animation-delay: 15s;
 }
 
 /*topToBottom Animation*/
