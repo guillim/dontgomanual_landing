@@ -37,6 +37,7 @@ h6 {
     background-size: cover;
     /* background: url(../img/intro-bg.jpg) no-repeat center center; */
     background-size: cover;
+    position: relative;
 }
 
 .intro-message {
@@ -187,4 +188,24 @@ p.copyright {
 }
 .marginRight10{
   margin-right: 10px
+}
+
+.white{
+  color: white;
+}
+
+.scrollBtn{
+  position: absolute;
+  bottom: 15%;
+  left: 50%;
+}
+
+.contactBtn{
+  position: absolute;
+  bottom: 15%;
+  left: 10%;
+}
+
+#contact p{
+  color: white;
 }

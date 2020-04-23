@@ -3,7 +3,7 @@ layout: default
 idtag: product
 img: dashboard.png
 category: Services
-title: Dontgomanual is the perfect solution
+title: DGM is the perfect solution
 permalink: product
 description: |
 ---
