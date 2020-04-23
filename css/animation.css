@@ -1,77 +1,66 @@
-/*Vertical Sliding*/
-.slidingVertical{
-  display: flex;
-  text-indent: 8px;
-  justify-content: center;
+.slider-wrapper {
+  /* font-size: 40px; */
+  color:#aaa;
+  font-weight: bold;
+  /* text-transform: uppercase; */
+  display: inline-flex;
   align-items: center;
-  min-height: 30px;
-  margin-bottom: 30px;
+  justify-content: center;
 }
-.slidingVertical span{
-	animation: topToBottom 17.5s linear infinite 0s;
-	-ms-animation: topToBottom 17.5s linear infinite 0s;
-	-webkit-animation: topToBottom 17.5s linear infinite 0s;
-	color: #00abe9;
-	opacity: 0;
-	overflow: hidden;
-	position: absolute;
+.slider{
+  height: 50px;
+  border-radius: 6px;
+  margin-left: 15px;
+  overflow: hidden;
 }
-.slidingVertical span:nth-child(2){
-	animation-delay: 2.5s;
-	-ms-animation-delay: 2.5s;
-	-webkit-animation-delay: 2.5s;
+.slider div {
+  color:#fff;
+  height: 50px;
+  margin-bottom: 50px;
+  padding: 2px 15px;
+  text-align: center;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
-.slidingVertical span:nth-child(3){
-	animation-delay: 5s;
-	-ms-animation-delay: 5s;
-	-webkit-animation-delay: 5s;
+.slider-text1 {
+  background: none;
+  animation: slide 15s linear infinite;
 }
-.slidingVertical span:nth-child(4){
-	animation-delay: 7.5s;
-	-ms-animation-delay: 7.5s;
-	-webkit-animation-delay: 7.5s;
+.slider-text2 {
+  background: #ea4c33;
 }
-.slidingVertical span:nth-child(5){
-	animation-delay: 10s;
-	-ms-animation-delay: 10s;
-	-webkit-animation-delay: 10s;
+.slider-text3 {
+  background: #1d1e1b;
 }
-.slidingVertical span:nth-child(6){
-	animation-delay: 12.5s;
-	-ms-animation-delay: 12.5s;
-	-webkit-animation-delay: 12.5s;
+.slider-text4 {
+  background: #ebb330;
 }
-.slidingVertical span:nth-child(7){
-	animation-delay: 15s;
-	-ms-animation-delay: 15s;
-	-webkit-animation-delay: 15s;
+.slider-text5 {
+  background: #e0001a;
+}
+.slider-text6 {
+  background: #2a3547;
+}
+.slider-text7 {
+  background: #f19b33;
 }
 
-/*topToBottom Animation*/
-@-moz-keyframes topToBottom{
-	0% { opacity: 0; }
-	5% { opacity: 0; -moz-transform: translateY(-50px); }
-	10% { opacity: 1; -moz-transform: translateY(0px); }
-	25% { opacity: 1; -moz-transform: translateY(0px); }
-	30% { opacity: 0; -moz-transform: translateY(50px); }
-	80% { opacity: 0; }
-	100% { opacity: 0; }
-}
-@-webkit-keyframes topToBottom{
-	0% { opacity: 0; }
-	5% { opacity: 0; -webkit-transform: translateY(-50px); }
-	10% { opacity: 1; -webkit-transform: translateY(0px); }
-	25% { opacity: 1; -webkit-transform: translateY(0px); }
-	30% { opacity: 0; -webkit-transform: translateY(50px); }
-	80% { opacity: 0; }
-	100% { opacity: 0; }
-}
-@-ms-keyframes topToBottom{
-	0% { opacity: 0; }
-	5% { opacity: 0; -ms-transform: translateY(-50px); }
-	10% { opacity: 1; -ms-transform: translateY(0px); }
-	25% { opacity: 1; -ms-transform: translateY(0px); }
-	30% { opacity: 0; -ms-transform: translateY(50px); }
-	80% { opacity: 0; }
-	100% { opacity: 0; }
+@keyframes slide {
+  0% {margin-top:-700px;}
+  14% {margin-top:-600px;}
+  20% {margin-top:-600px;}
+  26% {margin-top:-500px;}
+  32% {margin-top:-500px;}
+  38% {margin-top:-400px;}
+  44% {margin-top:-400px;}
+  50% {margin-top:-300px;}
+  56% {margin-top:-300px;}
+  62% {margin-top:-200px;}
+  68% {margin-top:-200px;}
+  78% {margin-top:-100px;}
+  84% {margin-top:-100px;}
+  92% {margin-top:0px;}
+  100% {margin-top:0px;}
 }
