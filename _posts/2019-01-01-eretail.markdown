@@ -13,7 +13,7 @@ It mixes :
 - Deep knowledge of the products (see our <a href="#database">database</a>)
 - Retro-enginering of ranking algorithm
 - State of the art tech
-- AI to extract additional information
+- Artificial Intelligence to extract additional information
 
 
 Want to know more about our solution ? <a class="btn btn-success page-scroll" href="#product">See Radar </a>
