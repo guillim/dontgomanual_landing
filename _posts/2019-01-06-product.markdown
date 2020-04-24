@@ -1,0 +1,15 @@
+---
+layout: default
+idtag: product
+img: dashboard3.png
+category: Services
+title: 4. Share of voice
+permalink: product
+description: |
+---
+
+We gather the scores into a **share of voice** report. The higher share a seller has, the higher ranked his products.
+
+We do this for Natural ranking, for headline Search and for sponsored products. This way you have an accurate vision of your competitors that make advertising on your targeted keywords.
+
+Based on these reports, we provide the best advises to optimise your sales on Amazon and other R-retailers

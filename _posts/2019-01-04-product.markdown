@@ -1,0 +1,11 @@
+---
+layout: default
+idtag: product
+img: score2.png
+category: Services
+title: 2. Score
+permalink: product
+description: |
+---
+
+Mainly based on its ranking, we score each product appearing on _xbox ons s controller_ search

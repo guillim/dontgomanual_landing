@@ -1,0 +1,13 @@
+---
+layout: default
+idtag: product
+img: chill.png
+category: Services
+title: 3. Repeat
+permalink: product
+description: |
+---
+
+We repeat this **every day**, and for **hundreds** of keywords like _xbox ons s controller_
+
+You don't have to do anything !

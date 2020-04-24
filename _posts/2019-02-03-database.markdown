@@ -1,0 +1,15 @@
+---
+layout: default
+idtag: e-retail1
+img: amazonreview.png
+category: Services
+title: Our database
+permalink: database
+description: |
+---
+For E-retail plateforms to rank your products, not only prices are important, but comments, ratings, descriptions are key factors.
+
+Every single on of your products will be in our database, for real. Our competitors say they it too, but they actually simulate most of them. Why ? Because it cost a lot to make bots read Amazon pages everyday. We are so transparent that you can download everything we have gathered for you on Amazon. Looking at the times we gathered each product, you will know precisely when we did our job.
+
+
+This way, we have a global understanding of the market, and we know for sure what to do to imporve your sales.
