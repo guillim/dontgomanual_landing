@@ -10,7 +10,7 @@ description: |
 
 We gather the scores into a **share of voice** report. The higher share a seller has, the higher ranked his products.
 
-We creates reports for
+We create reports for
 - Natural ranking (SEO)
 - Headline Search (SEA)
 - Sponsored products (SEA)
