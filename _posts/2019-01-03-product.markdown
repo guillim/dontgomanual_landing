@@ -10,4 +10,4 @@ description: |
 
 Let's say you want to track product related to _xbox ons s controller_
 
-We go on Amazon, and search for _xbox ons s controller_
+We go on Amazon, and search for _xbox ons s controller_. Sounds simple but it requires a lot of tech, including residentiel IPs, to match the location of your users. 

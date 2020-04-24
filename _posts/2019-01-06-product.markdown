@@ -10,6 +10,9 @@ description: |
 
 We gather the scores into a **share of voice** report. The higher share a seller has, the higher ranked his products.
 
-We do this for Natural ranking, for headline Search and for sponsored products. This way you have an accurate vision of your competitors that make advertising on your targeted keywords.
+We creates reports for
+- Natural ranking (SEO)
+- Headline Search (SEA)
+- Sponsored products (SEA)
 
-Based on these reports, we provide the best advises to optimise your sales on Amazon and other R-retailers
+This is the only way to have an accurate vision of your products performance compared to your competitors. Based on this, we provide the best advises to optimise your sales on Amazon &co.

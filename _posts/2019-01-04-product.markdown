@@ -8,4 +8,4 @@ permalink: product
 description: |
 ---
 
-Mainly based on its ranking, we score each product appearing on _xbox ons s controller_ search
+Mainly based on its ranking, we score each product appearing on _xbox ons s controller_ search. This is our secret formula, created after years of studies.

@@ -10,9 +10,9 @@ description: |
 Amazon is a war. Our **radar** is the Key to beat the competition.
 
 It mixes :
-- our deep knowledge of the products (see our <a href="#database">database</a>)
-- retro-enginering of Amazon ranking algorithm
-- our state of the art technology to get, treat and analyse data
+- Deep knowledge of the products (see our <a href="#database">database</a>)
+- Retro-enginering of ranking algorithm
+- State of the art tech
 - AI to extract additional information
 
 

@@ -3,16 +3,16 @@ layout: default
 idtag: product
 img: dashboard2.png
 category: Services
-title: our amazing RADAR
+title: Amazing RADAR
 permalink: product
 description: |
 ---
 
-Our strategy is simple. And it works. Here are the 3 main steps :
+Our strategy is simple. And it works. Here are the 4 main steps :
 
 1. search for a _keyword_ on Amazon
 2. score each product appearing as search results
 3. repeat this every day, for hundreds of keywords
 4. gather the product scores into a **share of voice** report.
 
-The higher share a seller has, the higher ranked his products. Based on this, we can perform our recommendations.
+Let's see a bit more in detail.
