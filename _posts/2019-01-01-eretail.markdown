@@ -7,7 +7,7 @@ title: Expertise + Technology
 permalink: eretail
 description: |
 ---
-Amazon is a war. Our **radar** is the Key to beat the competition.
+E-commerce is a challenge. Our **radar** is the Key to beat the competition.
 
 It mixes :
 - Deep knowledge of the products (see our <a href="#database">database</a>)
