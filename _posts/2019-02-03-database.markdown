@@ -1,6 +1,6 @@
 ---
 layout: default
-idtag: e-retail1
+idtag: database
 img: amazonreview.png
 category: Services
 title: Our database
