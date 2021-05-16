@@ -8,6 +8,8 @@ permalink: consulting
 description: |
 ---
 
-It may seem difficult at first. That's why we are not letting you alone: our partner [Neo Media World](https://neomediaworld.com/) will walk you through every step. You will be in touch with their experts to set up our solution, interpret the data, and take decisions to improve your product presence.
+Good data is a must have. You don't want to rely on JungleScout or any other toys that provide generic and interpolated data. Because if you do, you will end up spending time on creating reports that can't help your customer compete with other sellers.  
 
-Because human contact will always be necessary.
+But good data needs explanation on how to use it : we can help you get started for your data interpretation, and suggest some visualization.
+
+Because human brains will always be necessary, don't hesitate to talk to us !
