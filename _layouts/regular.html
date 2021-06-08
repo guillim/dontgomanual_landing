@@ -6,7 +6,23 @@
 		{% include header-regular.html %}
 
 		<div style="margin:20px">
-			{{content}}
+
+			<div class="content-section-a" id="{{post.idtag}}">
+				<div class="container">
+					<div class="row">
+						{{content}}
+							<!-- <div class="col-lg-5 col-sm-6">
+									<div class="clearfix"></div>
+									<h2 class="section-heading">{{ post.title }}</h2>
+									<div class="lead">{{ post.content }}</div>
+							</div>
+							<div class="col-lg-5 col-lg-offset-2 col-sm-6">
+									<img class="img-responsive" src="img/services/{{ post.img }}" alt="image of {{ post.idtag }}">
+							</div> -->
+					</div>
+				</div>
+			</div>
+
 		</div>
 		{% include footer.html %}
 		{% include js.html %}

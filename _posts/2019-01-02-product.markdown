@@ -14,7 +14,7 @@ DGM helps you to build your customer analytics & supervision reports by scanning
 Once you give us the **keywords to track**, and how often to track them, our robots will :
 
 1. Search your _keywords_ on Amazon
-2. Save product information displayed in the results into your dedicated **database**
+2. Save product information displayed in the results into your dedicated [**database**](/database)
 
 You can then create automated report, like the famous **share of voice** report.
 
