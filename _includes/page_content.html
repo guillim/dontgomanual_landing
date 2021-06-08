@@ -1,5 +1,37 @@
 <section id="services">
 <!-- Page Content -->
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h2 class="section-heading" style="display:flex;justify-content: center;">They trust us</h2>
+      <main class="cards">
+        <img src="//logo.clearbit.com/nespresso.com" alt="Sample photo">
+        <img src="//logo.clearbit.com/sony.com" alt="Sample photo">
+        <img src="//logo.clearbit.com/bjorg.fr" alt="Sample photo">
+        <img src="//logo.clearbit.com/kleenex.fr" alt="Sample photo">
+        <img src="//logo.clearbit.com/nestle.com" alt="Sample photo">
+      </main>`
+    </div>
+  </div>
+</div>
+
+<style>
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: row;
+    max-height: 100vh;
+  }
+  .cards img {
+    margin: 10px;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3);
+    max-width: 23vw;
+  }
+</style>
+
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
@@ -9,7 +41,7 @@
 
             <div class="row">
                 <div class="col-lg-5 col-sm-6">
-                    <hr class="section-heading-spacer">
+                    <!-- <hr class="section-heading-spacer"> -->
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>
@@ -32,7 +64,7 @@
 
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
-                    <hr class="section-heading-spacer">
+                    <!-- <hr class="section-heading-spacer"> -->
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>

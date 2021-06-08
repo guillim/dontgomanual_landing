@@ -3,16 +3,16 @@ layout: default
 idtag: product
 img: dashboard3.png
 category: Services
-title: 4. Share of voice
+title: Reports
 permalink: product
 description: |
 ---
 
-We gather the scores into a **share of voice** report. The higher share a seller has, the higher ranked his products.
+Even though we don't create reports, we have examples. For instance, the *Share of voice* report represents the presence of every seller on your keywords :  _The higher share a seller has, the higher ranked his products_.
 
 We create reports for
 - Natural ranking (SEO)
 - Headline Search (SEA)
 - Sponsored products (SEA)
 
-This is the only way to have an accurate vision of your products performance compared to your competitors. Based on this, we provide the best advises to optimise your sales on Amazon &co.
+This is the only way to have an accurate vision of your products performance compared to your competitors. Based on this, you can optimise sales on Amazon &co.

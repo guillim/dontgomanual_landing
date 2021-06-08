@@ -1,18 +1,21 @@
 ---
 layout: default
 idtag: product
-img: dashboard2.png
+img: score2.png
 category: Services
-title: Amazing RADAR
+title: What we do
 permalink: product
 description: |
 ---
 
-Our strategy is simple. And it works. Here are the 4 main steps :
+DGM helps you to build your customer analytics & supervision reports by scanning Amazon (and other online retailers).
 
-1. search for a _keyword_ on Amazon
-2. score each product appearing as search results
-3. repeat this every day, for hundreds of keywords
-4. gather the product scores into a **share of voice** report.
 
-Let's see a bit more in detail.
+Once you give us the **keywords to track**, and how often to track them, our robots will :
+
+1. Search your _keywords_ on Amazon
+2. Save product information displayed in the results into your dedicated **database**
+
+You can then create automated report, like the famous **share of voice** report.
+
+We provide the access to your dedicated database, and from here, you will create amazing reports with tools like *Google Data Studio*.

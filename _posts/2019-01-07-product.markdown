@@ -1,0 +1,16 @@
+---
+layout: default
+idtag: product
+img: advice.png
+category: Services
+title: Advice possible
+permalink: product
+description: |
+---
+
+Using your database, you can help your client in many topics :
+- Check that product are on sale where they should be
+- Track prices and discounts of competitors
+- See who wins the buy box
+- Connect it with your Amazon Advertising sales
+- Receive clear and regular reports to follow-up performances
